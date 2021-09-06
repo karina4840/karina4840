@@ -1,0 +1,4 @@
+- 👋🏻 Hi, I’m @karina4840
+- 👀 I’m interested in Frontend Dev, Natural Languages, and Plants
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me: karina4840@gmail.com
