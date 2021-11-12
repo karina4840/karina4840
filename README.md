@@ -1,6 +1,20 @@
+<br>
+<br>
+<br>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="60%" src="https://github.com/karina4840/karina4840/blob/main/assets/h1_.svg"/></a></p>
+<br>
+<br>
+<br>
 
-<!-- picture -->
 I'm a self-taught passionate FrontEnd developer from Russia 🇷🇺 living in the UK 🇬🇧
+
+**About me**
+
+- 💼 FrontEnd Web Developer 
+
+- 💛 I love writing JavaScript & SASS and creating beautifel things
+
+- 💬 Contsct me here [here](##)
 
 
 ## Skills and Experience:
