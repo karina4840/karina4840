@@ -1,8 +1,6 @@
 <br>
 <br>
-<br>
 <p align="center"><a href="https://anuraghazra.github.io"><img width="60%" src="https://github.com/karina4840/karina4840/blob/main/assets/h1_.svg"/></a></p>
-<br>
 <br>
 <br>
 
