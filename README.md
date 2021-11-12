@@ -10,7 +10,7 @@ I'm a self-taught passionate FrontEnd developer from Russia 🇷🇺 living in t
 
 - 💼 FrontEnd Web Developer 
 
-- 💛 I love writing JavaScript & SASS and creating beautifel things
+- 💛 I love writing JavaScript & SASS and creating beautiful things
 
 - 📩 Contact me here karina4840@gmail.com
 
