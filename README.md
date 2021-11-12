@@ -1,7 +1,6 @@
-- 👋🏻 Hi, I’m @karina4840
-- 👀 I’m interested in Frontend Dev, Natural Languages, and Plants
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me: karina4840@gmail.com
+
+<!-- picture -->
+I'm a self-taught passionate FrontEnd developer from Russia 🇷🇺 living in the UK 🇬🇧
 
 
 ## Skills and Experience:
@@ -19,7 +18,6 @@
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat" /> -->
 </p>
-
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karina4840&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
