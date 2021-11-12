@@ -4,9 +4,9 @@
 <br>
 <br>
 
-I'm a self-taught passionate FrontEnd developer from Russia 🇷🇺 living in the UK 🇬🇧
+<p align="center">I'm a self-taught passionate FrontEnd developer from Russia 🇷🇺 living in the UK 🇬🇧</p>
 
-**About me**
+## About me
 
 - 💼 FrontEnd Web Developer 
 
