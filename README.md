@@ -1,10 +1,7 @@
 <br>
 <br>
-<p align="center"><a href="https://anuraghazra.github.io"><img width="60%" src="https://github.com/karina4840/karina4840/blob/main/assets/h1_.svg"/></a></p>
+<p align="center"><a href=""><img width="60%" src="https://github.com/karina4840/karina4840/blob/main/assets/Group%202.svg"/></a></p>
 <br>
-<br>
-
-<p align="center">I'm a self-taught passionate FrontEnd developer from Russia 🇷🇺 living in the UK 🇬🇧</p>
 
 ## About me
 
