@@ -30,11 +30,8 @@ I'm a self-taught passionate FrontEnd developer from Russia 🇷🇺 living in t
 <!-- <img width= 35px alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
  -->
 
-
-
 </p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karina4840&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karina4840&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
