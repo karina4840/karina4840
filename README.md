@@ -10,7 +10,11 @@
 - 💛 I love writing JavaScript, SASS, and creating beautiful things
 
 - 📩 Contact me here karina4840@gmail.com
+---
+A curiosity-driven Front-End Developer with design chops.
+I'm passionate about bringing both the technical and visual aspects of digital products to life. User experience, beautiful pixels and writing clean accessible, human code matters to me. I sweat the details. Less is more.
 
+I'm happiest when I'm creating, learning, exploring and thinking about how to make things better. Currently open to new oportunities and am available for any freelance work. Feel free to reach out and say hello! 👋🏻
 
 ## Skills and Experience:
 
