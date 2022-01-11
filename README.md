@@ -11,7 +11,7 @@
 
 - 📩 Contact me here karina4840@gmail.com
 
-- 💜 [portfolio here](https://karina4840.github.io/portfolio-karina/)
+- 💜 [portfolio here](https://karina4840.github.io/portfolio-karina4840/)
 ---
 A curiosity-driven Front-End Developer with design chops.
 I'm passionate about bringing both the technical and visual aspects of digital products to life. User experience, beautiful pixels and writing clean accessible, human code matters to me.
@@ -28,9 +28,9 @@ I'm happiest when I'm creating, learning, exploring and thinking about how to ma
   <img width= 35px alt="SASS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img width= 35px alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
   <img width= 35px alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img width= 35px alt="jQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
 
-<!--   <img width= 35px alt="jQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" /> -->
-<!-- <img width= 35px alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+ <!-- <img width= 35px alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
  -->
 
 </p>
