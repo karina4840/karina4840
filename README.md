@@ -9,7 +9,7 @@
 
 - 💛 I love writing JavaScript, SASS, and creating beautiful things
 
-- 📩 Contact me [here](karina4840@gmail.com)
+- 📩 Contact me [here](mailto:karina4840@gmail.com)
 
 - 💼 [karina.dev](karina4840.github.io/portfolio-me/)
 ---
