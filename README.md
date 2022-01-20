@@ -11,7 +11,7 @@
 
 - 📩 Contact me [here](mailto:karina4840@gmail.com)
 
-- 💼 [karina.dev](karina4840.github.io/portfolio-me/)
+- 💼 [karina.dev](https://karina4840.github.io/portfolio-me/)
 ---
 A curiosity-driven Front-End Developer with design chops.
 I'm passionate about bringing both the technical and visual aspects of digital products to life. User experience, beautiful pixels and writing clean accessible, human code matters to me.
