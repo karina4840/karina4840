@@ -5,15 +5,15 @@
 
 ## About me
 
-- 👩🏻‍💻 FrontEnd Web Developer 
+- 👩🏻‍💻 Web Developer 
 
-- 💛 I love writing JavaScript, SASS, and creating beautiful things
+- 💛 I love creating with JavaScript and SASS
 
 - 📩 Contact me [here](mailto:karina4840@gmail.com)
 
 - 💼 [karina.dev](https://karina4840.github.io/portfolio-me/)
 ---
-A curiosity-driven Front-End Developer with design chops.
+A curiosity-driven Web Developer with design chops.
 I'm passionate about bringing both the technical and visual aspects of digital products to life. User experience, beautiful pixels and writing clean accessible, human code matters to me.
 
 I'm happiest when I'm creating, learning, exploring and thinking about how to make things better. Currently open to new oportunities and am available for any freelance work. Feel free to reach out and say hello! 👋🏻
@@ -31,9 +31,6 @@ I'm happiest when I'm creating, learning, exploring and thinking about how to ma
  <img width= 35px alt="SASS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
  <img width= 35px alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
   <img width= 35px alt="git" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-plain-wordmark.svg" />
-  
- 
- 
  <img width= 35px alt="WordPress" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/wordpress/wordpress-plain-wordmark.svg" />
  <img width= 35px alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   
