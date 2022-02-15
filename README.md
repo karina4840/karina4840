@@ -1,6 +1,6 @@
 <br>
 <br>
-<p align="center"><a href=""><img width="60%" src="https://github.com/karina4840/karina4840/blob/main/assets/Group%202.svg"/></a></p>
+<p align="center"><a href=""><img width="60%" src="https://raw.githubusercontent.com/karina4840/karina4840/c492e22f7f71355c7f36a1aaffafb62369d5f3fe/guthub-name.svg"/></a></p>
 <br>
 
 ## About me
