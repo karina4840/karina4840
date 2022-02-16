@@ -3,15 +3,12 @@
 <p align="center"><a href=""><img width="300px" src="https://raw.githubusercontent.com/karina4840/karina4840/c492e22f7f71355c7f36a1aaffafb62369d5f3fe/guthub-name.svg"/></a></p>
 <br>
 
-## About me
+### About
 
-- 👩🏻‍💻 Web Developer 
-
-- 💛 I love creating with JavaScript and SASS
-
+- 🚀Web developer | 👩🏻‍💻 Forever student | 🪴Plant lover
+- 🇺🇸EN, 🇷🇺RU, 🇫🇷FR, 🇨🇳CH 
 - 📩 Contact me [here](mailto:karina4840@gmail.com)
-
-- 💼 [karina.dev](https://karina4840.github.io/portfolio-me/)
+- 📍 [karinaivanova.com](https://karina4840.github.io/portfolio-me/)
 ---
 A curiosity-driven Web Developer with design chops.
 I'm passionate about bringing both the technical and visual aspects of digital products to life. User experience, beautiful pixels and writing clean accessible, human code matters to me.
