@@ -7,7 +7,7 @@
 
 - 🚀Web developer | 👩🏻‍💻 Forever student | 🪴Plant lover
 - 🇺🇸EN, 🇷🇺RU, 🇫🇷FR, 🇨🇳CH 
-- 📩 Contact me [here](mailto:karina4840@gmail.com)
+- [📨 C O N T A C T 📨](mailto:karina4840@gmail.com)
 - 📍 [karinaivanova.com](https://karina4840.github.io/portfolio-me/)
 ---
 A curiosity-driven Web Developer with design chops.
