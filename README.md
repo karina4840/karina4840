@@ -8,10 +8,10 @@
 - 🚀Web developer | 👩🏻‍💻 Forever student | 🪴Plant lover
 - 🇬🇧EN, 🇷🇺RU
 - [📨 C O N T A C T 📨](mailto:karina4840@gmail.com)
-- 📍 [P O R T F O L I O]([https://karina4840.github.io/portfolio-me/](https://karina4840.github.io/karina_4840_portfolio/))
+- 📍 [P O R T F O L I O]([https://karina4840.github.io/portfolio-me/](https://karina4840.github.io/karina_4840_portfolio/)
 ---
 A curiosity-driven Web Developer with design chops.
-I'm passionate about bringing both the technical and visual aspects of digital products to life. User experience, beautiful pixels and writing clean accessible, human code matters to me.
+I'm passionate about bringing both the technical and visual aspects of digital products to life. User experience, beautiful pixels and writing clean, accessible, human code matters to me.
 
 I'm happiest when I'm creating, learning, exploring and thinking about how to make things better. Currently open to new opportunities and am available for any freelance work. Feel free to reach out and say hello! 👋🏻
 
